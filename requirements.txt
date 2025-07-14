@@ -1,0 +1,7 @@
+boto3 #used to interact with AWS services
+awscli #used to manage AWS services from the command line
+pypdf #used to read PDF files
+langchain #used for building language models
+streamlit #used for building web apps 
+faiss-cpu #used for efficient similarity search in large datasets
+langchain-community #community contributions to LangChain
